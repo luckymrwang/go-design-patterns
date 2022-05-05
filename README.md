@@ -12,3 +12,6 @@ Golang Design Patterns
 
 - [建造者模式(Builder Pattern)](/01-builder-pattern)
     >将一个复杂对象的构建与它的表示分离, 使得同样的构建过程可以创建不同的表示
+
+- [单例模式(Singleton Parttern)](/02-singleton-pattern)
+    >单例模式是最简单的设计模式之一, 保证一个类仅有一个实例, 并提供一个全局的访问接口

@@ -19,3 +19,6 @@ Golang Design Patterns
 
 - [工厂方法模式(Factory Method Pattern)](/03-factory-method-pattern)
     >使一个类的实例化延迟到其子类, 定义一个用于创建对象的接口, 让子类决定将哪一个类实例化
+
+- [对象池模式(Object Pool Pattern)](/04-object-pool-pattern)
+    >根据需求将预测的对象保存到channel中， 用于对象的生成成本大于维持成本

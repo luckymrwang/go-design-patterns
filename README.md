@@ -22,3 +22,6 @@ Golang Design Patterns
 
 - [对象池模式(Object Pool Pattern)](/04-object-pool-pattern)
     >根据需求将预测的对象保存到channel中， 用于对象的生成成本大于维持成本
+
+- [生成器模式(Generator Pattern)]()
+    >生成器模式可以允许使用者在生成要使用的下一个值时与生成器并行运行

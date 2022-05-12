@@ -7,10 +7,10 @@ import (
 /*
 	factory method design pattern will create object with the exact type
 	设计思想：
-		类型常量
-		接口factory
-		生成函数
-		实现接口方法的struct
+		1.类型常量
+		2.接口factory
+		3.生成函数
+		4.实现接口方法的struct
 */
 
 type Kind int

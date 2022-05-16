@@ -28,3 +28,6 @@ Golang Design Patterns
 
 - [抽象工厂模式(Abstract Factory Pattern)](/06-abstract-pattern)
     >提供一个创建一系列相关或相互依赖对象的接口, 而无需指定它们具体的类
+
+- [原型模式(Prototype Pattern)](/07-prototype-pattern)
+    >复制一个已存在的实例

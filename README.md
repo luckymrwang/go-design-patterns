@@ -31,3 +31,8 @@ Golang Design Patterns
 
 - [原型模式(Prototype Pattern)](/07-prototype-pattern)
     >复制一个已存在的实例
+
+## 结构模式
+
+- [装饰模式(Decorator Pattern)](/08-decorator-pattern)
+    >装饰模式使用对象组合的方式动态改变或增加对象行为，在原对象的基础上增加功能

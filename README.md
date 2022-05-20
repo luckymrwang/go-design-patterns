@@ -36,3 +36,6 @@ Golang Design Patterns
 
 - [装饰模式(Decorator Pattern)](/08-decorator-pattern)
     >装饰模式使用对象组合的方式动态改变或增加对象行为，在原对象的基础上增加功能
+
+- [代理模式(Proxy Pattern)](/09-proxy-pattern)
+    >代理模式用于延迟处理操作或者在进行实际操作前后对真实对象进行其它处理

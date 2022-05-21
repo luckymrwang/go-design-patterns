@@ -39,3 +39,6 @@ Golang Design Patterns
 
 - [代理模式(Proxy Pattern)](/09-proxy-pattern)
     >代理模式用于延迟处理操作或者在进行实际操作前后对真实对象进行其它处理
+
+- [适配器模式(Adapter Pattern)](/10-adapter-pattern)
+    >将一个类的接口转换成客户希望的另外一个接口。适配器模式使得原本由于接口不兼容而不能一起工作的那些类可以一起工作

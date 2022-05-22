@@ -42,3 +42,6 @@ Golang Design Patterns
 
 - [适配器模式(Adapter Pattern)](/10-adapter-pattern)
     >将一个类的接口转换成客户希望的另外一个接口。适配器模式使得原本由于接口不兼容而不能一起工作的那些类可以一起工作
+
+- [组合模式(Composite Pattern)](/11-composite-pattern))
+    >组合模式有助于表达数据结构, 将对象组合成树形结构以表示"部分-整体"的层次结构, 常用于树状的结构

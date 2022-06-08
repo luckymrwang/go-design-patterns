@@ -45,3 +45,6 @@ Golang Design Patterns
 
 - [组合模式(Composite Pattern)](/11-composite-pattern))
     >组合模式有助于表达数据结构, 将对象组合成树形结构以表示"部分-整体"的层次结构, 常用于树状的结构
+
+- [桥接模式(Bridge Pattern)](/12-bridge-pattern)
+    >桥接模式分离抽象部分和实现部分，使得两部分可以独立扩展

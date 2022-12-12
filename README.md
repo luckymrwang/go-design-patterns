@@ -48,3 +48,8 @@ Golang Design Patterns
 
 - [桥接模式(Bridge Pattern)](/12-bridge-pattern)
     >桥接模式分离抽象部分和实现部分，使得两部分可以独立扩展
+
+## 行为模式
+
+- [责任链模式(Chain of Responsibility)](/22-chain-of-responsibility-pattern)
+    >责任链模式是将处理请求的多个对象连成一条链(类似队列)，每个对象都包含下一个对象的引用，请求沿着链传递，直到被处理
